@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps {nio/nio {:mvn/version "1.0.3"}
+        org.clj-commons/gloss {:mvn/version "0.3.6"}}}
